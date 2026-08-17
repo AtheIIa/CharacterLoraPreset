@@ -28,16 +28,11 @@ Everything is stored locally in a `presets.json` file — no external services, 
 
 ## Screenshots
 
-<!-- Add your screenshots below. Suggested shots:
-     1. The Character Prompt Loader node with a couple of characters checked and strength rows visible
-     2. The Manage Characters popup, showing the add/edit form
-     3. The Manage Characters popup, showing the saved presets list with search
-     4. A before/after generation showing a character LoRA applied
--->
+<img width="363" height="231" alt="node-overview" src="https://github.com/user-attachments/assets/abf53bed-836c-4716-af5b-75a82499162c" />
 
-![Character Prompt Loader node](screenshots/node-overview.png)
 
-![Manage Characters — add/edit form](screenshots/manage-form.png)
+<img width="637" height="639" alt="manage-form" src="https://github.com/user-attachments/assets/e2d5ab75-086c-44fa-8445-da0b57e5462b" />
+
 
 ---
 
